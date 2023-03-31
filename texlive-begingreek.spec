@@ -1,6 +1,6 @@
 Name:		texlive-begingreek
 Version:	63255
-Release:	1
+Release:	2
 Summary:	Greek environment to be used with pdfLaTeX only
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/begingreek
