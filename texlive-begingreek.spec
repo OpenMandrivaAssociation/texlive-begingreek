@@ -3,7 +3,7 @@ Version:	63255
 Release:	2
 Summary:	Greek environment to be used with pdfLaTeX only
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/begingreek
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/begingreek
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/begingreek.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/begingreek.doc.r%{version}.tar.xz
